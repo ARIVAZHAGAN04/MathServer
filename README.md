@@ -140,10 +140,10 @@ path('',views.surfacerightcylarea,name="surfaceareaofrightanglecylinder")
 ```
 
 ## SERVER SIDE PROCESSING:
-
+![alt text](image.png)
 
 ## HOMEPAGE:
-
+![alt text](<Screenshot 2024-05-15 003801.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
